@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.blog/wp-content/uploads/2024/07/maxresdefault-1.jpg?fit=1280%2C720" alt="cover image" width="100%" />
+  <img src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg" alt="cover image" width="100%" />
 </p>
 
 
