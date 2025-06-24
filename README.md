@@ -50,7 +50,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rridwan27&theme=dark&hide_border=true&count_private=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rridwan27&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rridwan27&theme=dark&hide_border=true&layout=compact" />
 </p>
 
