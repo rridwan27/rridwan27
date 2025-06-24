@@ -30,7 +30,7 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://instagram.com/aarnobbb._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/ridwan.arnob.2025"><img src="https://img.shields.io/badge/Facebook-%23E4405F.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://x.com/arnob000007"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="mailto:ridwanur13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
