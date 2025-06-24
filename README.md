@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ridwan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ridwan+%F0%9F%87%A7%F0%9F%87%BD;Full-stack+developer+from+Bangladesh;Clean+code+%7C+Beautiful+UI+%7C+React+Lover" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A full-stack developer crafting clean code and beautiful UIs from Bangladesh</h3>
 
 ---
@@ -31,7 +34,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ### 🧱 Database & Backend Tools
@@ -40,9 +42,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### 📦 Package Managers
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ---
 
@@ -53,12 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rridwan27&theme=dark&hide_border=true&layout=compact" />
 </p>
 
----
-
-## 🧭 Visitor Counter
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rridwan27&icon=0&color=0" />
-</p>
-
 <!-- Proudly built by Ridwan using GPRM https://gprm.itsvg.in -->
-
