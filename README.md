@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ridwan+%F0%9F%87%A7%F0%9F%87%BD;Full-stack+developer+from+Bangladesh;Clean+code+%7C+Beautiful+UI+%7C+React+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ridwan" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A full-stack developer crafting clean code and beautiful UIs from Bangladesh</h3>
