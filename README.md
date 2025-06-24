@@ -12,6 +12,19 @@
 
 <h3 align="center">A full-stack developer crafting clean code and beautiful UIs from Bangladesh 🇧🇩</h3>
 
+
+---
+
+## 👨‍💻 About Me
+
+🎓 I’m a student at **North South University**, pursuing a **BSc in Electrical and Electronic Engineering (EEE)**.  
+💡 I have a deep passion for **programming**, and I love building full-stack web applications that blend logic and design.  
+🌱 Currently improving my skills in **React**, **Node.js**, and modern **backend stacks**.  
+🚀 Always curious, always learning.
+
+---
+
+
 ---
 
 ## 🌐 Connect with me
