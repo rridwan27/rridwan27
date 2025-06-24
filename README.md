@@ -17,12 +17,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a student at **North South University**, pursuing a **BSc in Electrical and Electronic Engineering (EEE)**.  
-💡 I have a deep passion for **programming**, and I love building full-stack web applications that blend logic and design.  
-🌱 Currently improving my skills in **React**, **Node.js**, and modern **backend stacks**.  
-🚀 Always curious, always learning.
-
----
+- 🎓 Student at **North South University**, studying **BSc in Electrical and Electronic Engineering (EEE)**  
+- 💡 Passionate about **programming**, especially full-stack web development  
+- 🧠 Currently exploring:
+  - **Next.js** – for production-grade React apps
+  - **TanStack (Query, Router)** – for powerful data fetching and routing
+  - **GSAP** – to build interactive 3D experiences on the web
+  - **Prisma** – for type-safe and scalable database access
 
 
 ---
