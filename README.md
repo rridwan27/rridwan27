@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.blog/wp-content/uploads/2024/07/maxresdefault-1.jpg?fit=1280%2C720" alt="cover image" width="100%" />
+</p>
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ridwan!" />
 </h1>
